@@ -1,0 +1,29 @@
+{
+  "name": "ghost-gcs",
+  "version": "1.0.0",
+  "description": "Plugin that adds Google Cloud Storage support for Ghost 0.11.10.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StickmanVentures/ghost-gcs.git"
+  },
+  "keywords": [
+    "ghost",
+    "gcs",
+    "google",
+    "cloud",
+    "storage"
+  ],
+  "author": "Walter Kuppens",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/StickmanVentures/ghost-gcs/issues"
+  },
+  "homepage": "https://github.com/StickmanVentures/ghost-gcs#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^1.2.0"
+  }
+}
