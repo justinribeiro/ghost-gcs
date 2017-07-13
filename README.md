@@ -10,7 +10,7 @@ To install you can either run the following command or download, audit, and
 run the script manually. This should be run in your Ghost project directory.
 
 ```shell
-curl https://github.com/StickmanVentures/ghost-gcs/blob/master/install.sh | bash
+curl https://raw.githubusercontent.com/StickmanVentures/ghost-gcs/master/install.sh | bash
 ```
 
 ## Configuration

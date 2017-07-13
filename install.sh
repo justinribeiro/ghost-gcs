@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PLUGIN_URL = "https://github.com/StickmanVentures/ghost-gcs/blob/master/index.js"
+PLUGIN_URL = "https://raw.githubusercontent.com/StickmanVentures/ghost-gcs/master/index.js"
 PLUGIN_PATH = "content/storage/gcs"
 
 # Do a stupid check to see if we're in a ghost project directory and create the
