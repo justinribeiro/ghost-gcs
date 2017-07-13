@@ -15,10 +15,10 @@ curl https://github.com/StickmanVentures/ghost-gcs/blob/master/install.sh | bash
 
 ## Configuration
 
-Add the following json configuration to your ghost `config.js` with your
-project id, bucket, and key substituted under the environment of your choosing.
+Add the following configuration to your ghost `config.js` with your project id,
+bucket, and key substituted under the environment of your choosing.
 
-```json
+```javascript
 storage: {
     active: 'gcs',
     gcs: {
