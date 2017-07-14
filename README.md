@@ -1,4 +1,4 @@
-# Ghost GCS Plugin
+# Ghost GCS - A Plugin for Google Cloud Storage integration
 
 A content plugin for Ghost that adds support for storing images on Google Cloud
 Storage. We plan to expand this to work with themes in the future as part of
@@ -28,6 +28,10 @@ storage: {
     }
 }
 ```
+
+## In action
+
+![gcs_showcase](https://user-images.githubusercontent.com/643503/28224349-96d2b17e-6883-11e7-956e-f18916f63fe1.png)
 
 ## License
 
