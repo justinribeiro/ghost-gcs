@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PLUGIN_URL="https://raw.githubusercontent.com/StickmanVentures/ghost-gcs/master/index.js"
-PLUGIN_PATH="content/storage/gcs"
+PLUGIN_PATH="content/adapters/storage/gcs"
 
 # Do a stupid check to see if we're in a ghost project directory and create the
 # directory structure to place the plugin in.
